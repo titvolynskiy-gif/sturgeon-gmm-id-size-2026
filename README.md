@@ -5,7 +5,16 @@ species (*Huso huso*, *Acipenser gueldenstaedtii*, *A. ruthenus*,
 *A. stellatus*), *A. baerii*, and two hybrids (Bester, Sevbel).
 
 Code accompanying the article:
-> Author(s) (Year). *Title of the article*. Journal, DOI: [add DOI]
+> Tyt Volynskyi1,2, Svitozar Davydenko2, Oleksandr Kovalchuk1,3,4,*
+
+1 National Museum of Natural History, National Academy of Sciences of Ukraine, 15 Bohdana Khmelnytskoho St, Kyiv 01054, Ukraine
+
+2 Schmalhausen Institute of Zoology, National Academy of Sciences of Ukraine, 15 Bohdana Khmelnytskoho St, Kyiv 01054, Ukraine
+
+3 Department of Palaeozoology, Faculty of Biological Sciences, University of Wrocław, 21 Sienkiewicza St, Wrocław 50-335, Poland
+
+4 Department of Biology and Biology Teaching Methodology, Faculty of Natural Sciences and Geography, A. S. Makarenko Sumy State Pedagogical University, 87 Romenska St, Sumy 40002, Ukraine
+2026. *Title of the article*. Journal, DOI: [add DOI]
 
 ## What the script does
 
