@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Sturgeon Cranial Bone Shape Analysis"
+authors:
+  - family-names: "<Your last name>"
+    given-names: "<Your first name>"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2026-07-27
+license: MIT
+repository-code: "https://github.com/<your-username>/<repo-name>"
+preferred-citation:
+  type: article
+  title: "<Article title>"
+  authors:
+    - family-names: "<Your last name>"
+      given-names: "<Your first name>"
+  journal: "<Journal name>"
+  year: 2026
+  doi: "<DOI>"
